@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tiktok/static/css/main.80c48bae.chunk.css",
+    "main.js": "/tiktok/static/js/main.470ae5c0.chunk.js",
+    "main.js.map": "/tiktok/static/js/main.470ae5c0.chunk.js.map",
+    "runtime-main.js": "/tiktok/static/js/runtime-main.7f3d6cc0.js",
+    "runtime-main.js.map": "/tiktok/static/js/runtime-main.7f3d6cc0.js.map",
+    "static/js/2.f14e8fb1.chunk.js": "/tiktok/static/js/2.f14e8fb1.chunk.js",
+    "static/js/2.f14e8fb1.chunk.js.map": "/tiktok/static/js/2.f14e8fb1.chunk.js.map",
+    "index.html": "/tiktok/index.html",
+    "static/css/main.80c48bae.chunk.css.map": "/tiktok/static/css/main.80c48bae.chunk.css.map",
+    "static/js/2.f14e8fb1.chunk.js.LICENSE.txt": "/tiktok/static/js/2.f14e8fb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f3d6cc0.js",
+    "static/js/2.f14e8fb1.chunk.js",
+    "static/css/main.80c48bae.chunk.css",
+    "static/js/main.470ae5c0.chunk.js"
+  ]
+}
